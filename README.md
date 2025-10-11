@@ -14,3 +14,5 @@ Write a program that asks for the user's name on the console and after the user 
 Write a program that displays the result of the following arithmetic operation on the screen.
   
 
+**Exercise_5:**
+Write a program that asks the user for the number of hours worked and the hourly rate. It should then display the corresponding pay rate on the screen.

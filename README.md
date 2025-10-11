@@ -19,3 +19,7 @@ Write a program that asks the user for the number of hours worked and the hourly
 
 **Exercise_6:**
 Escribir un programa que lea un entero positivo, , introducido por el usuario y después muestre en pantalla la suma de todos los enteros desde 1 hasta . La suma de los primeros enteros positivos puede ser calculada de la siguiente forma:
+
+**Exercise_7:**
+Escribir un programa que pida al usuario su peso (en kg) y estatura (en metros), calcule el índice de masa corporal y lo almacene en una variable, y muestre por pantalla la frase Tu índice de masa corporal es <imc> donde <imc> es el índice de masa corporal calculado redondeado con dos decimales.
+

@@ -3,6 +3,7 @@
 
 Learning C++ from scratch with exercises
 .
+.k
 bnm
 
 **Exercise_1:**
